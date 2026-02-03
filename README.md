@@ -39,4 +39,4 @@ Oh, it's in spanish. I hope you don't have trouble with it :)
 
 [![FPDF](https://img.shields.io/badge/FPDF-PHP-0033cc?style=for-the-badge)](https://www.fpdf.org/)
 
-[![Mysql](https://img.shields.io/badge/MYSQL-0033cc)](https://www.mysql.com/)[![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-ccccff)](https://www.phpmyadmin.net/)
+[![Mysql](https://img.shields.io/badge/MYSQL-0033cc)](https://www.mysql.com/) [![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-ccccff)](https://www.phpmyadmin.net/)
