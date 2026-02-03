@@ -1,7 +1,7 @@
 
 # Asaí Software
 
-This application was made from scratch with PHP, with no framework, but using some libraries such as fpdf and datatables. 
+This application was made from scratch with PHP, with no framework, but using some libraries such as fpdf and datatables. Almost all functionalities are based on Ajax.
 
 It was developed for the management of a food store based on Açaí, a Brazilian fruit not very common in Europe. This application offers the tools to manage all areas of a physical store, from customer databases, products, interface to carry out the sale of products and a report of profits and expenses in relation to all the areas influencing the shop.
 
