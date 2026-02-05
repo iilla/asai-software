@@ -19,9 +19,9 @@ It was developed for the management of a food store based on Açaí, a Brazilian
 
 ## 🚀 Usage
 
-Feel free to check the code, despite you will need a copy of the database. It is connected by using the **dbconn.php** file, inside the **config** folder.
+Feel free to check the code, despite you will need a copy of the database (Email me if you want one!). It is connected by using the **dbconn.php** file, inside the **config** folder.
 
-Just upload the contents to your chosen domain and start playing with the code. Email me if you need a copy of the database.
+Just upload the contents to your chosen domain and start playing with the code. 
 ## 📝 Notes
 
 Nowadays, this software is mainly meant for learning purposes, more than commercial use. Still, it can be useful as a basis for more complex projects, even for modules for any framework based development. 
